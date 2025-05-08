@@ -1,20 +1,20 @@
 [
     {
         "number": 1,
-        "name": "sweep",
-        "priority": 2,
-        "due date": "today"
+        "name": "Mow",
+        "priority": 1,
+        "due date": "Today"
     },
     {
         "number": 2,
-        "name": "mow",
+        "name": "Sweep",
         "priority": 2,
-        "due date": "today"
+        "due date": "tomorrow"
     },
     {
         "number": 3,
-        "name": "dishes",
+        "name": "Mop",
         "priority": 3,
-        "due date": "3"
+        "due date": "today"
     }
 ]
